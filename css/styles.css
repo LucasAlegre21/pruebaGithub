@@ -1,0 +1,24 @@
+
+
+
+body{
+        background-color: violet;
+    }
+
+.navbar a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 20px;
+}
+
+ul li{
+    background-color: darkgoldenrod;
+}
+
+.cuartoelemento{
+    background-color: rgb(142, 142, 169);
+  }
+
+   ul li a{
+    background-color: blueviolet;
+  } 
